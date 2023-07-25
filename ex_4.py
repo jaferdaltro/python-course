@@ -19,3 +19,10 @@ try:
          print(f'{number} é um número impar')
 except:
     print(f'{number} não é um inteiro')
+
+
+try:
+    ...
+except:
+    pass
+
